@@ -1,2 +1,4 @@
 # mfm-regression
-Materials for Melek for Member - Regression by Data Science Indonesia
+This repository consists of materials that are delivered in Melek for Member:
+ML - Regression organized by [Data Science
+Indonesia](https://datascience.or.id/)
